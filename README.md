@@ -10,7 +10,7 @@ Analyze sales and marketing performance to identify revenue drivers, product con
 - Time Period: Monthly sales data
 
 ### Tools Used
-- SQL: Data aggregation
+- SQL: Data aggregation and KPI calculations
 - Python: Validation and exploratory analysis
 - Power BI: Interactive dashboards and executive reporting
 
